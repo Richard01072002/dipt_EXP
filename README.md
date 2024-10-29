@@ -112,4 +112,4 @@ plt.show()
 
 
 ### Result 
-#### this project demonstrates how advanced neural networks like YOLOv4 can be used for real-time applications, blending efficiency and accuracy. With minimal setup, it can be adapted for various tasks such as security monitoring, robotics, or autonomous driving.
+#### Running this code will display the grayscale image, print its dimensions, and saved 
