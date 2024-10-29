@@ -81,7 +81,6 @@ plt.show()
 ### OUTPUT 3
 #### Display the original image.
 <img width="331" alt="Screenshot 2024-10-29 at 12 00 37 PM" src="https://github.com/user-attachments/assets/25132683-9e6a-419a-b7d7-a81649bd803f">
-#### Displaying the final result.
 <img width="410" alt="Screenshot 2024-10-29 at 12 01 00 PM" src="https://github.com/user-attachments/assets/288ec886-10b7-42e9-be43-1ce33456ebad">
 
 
@@ -108,7 +107,6 @@ plt.show()
 ### Output 4
 <img width="570" alt="Screenshot 2024-10-29 at 12 02 25 PM" src="https://github.com/user-attachments/assets/e716b4b7-4c74-48f5-94a2-2271fe6ed4b9">
 <img width="301" alt="Screenshot 2024-10-29 at 12 03 39 PM" src="https://github.com/user-attachments/assets/c2289124-a6c8-4613-8f8d-67fa563d5dd8">
-#### Displaying the final result.
 <img width="565" alt="Screenshot 2024-10-29 at 12 03 53 PM" src="https://github.com/user-attachments/assets/6b5667da-12b1-4456-98dc-7a2f12c86d6a">
 
 
